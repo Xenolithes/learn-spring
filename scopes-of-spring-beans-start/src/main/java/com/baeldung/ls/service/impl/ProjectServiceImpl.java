@@ -6,6 +6,7 @@ import com.baeldung.ls.service.IProjectService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
+import javax.annotation.PostConstruct;
 import java.util.Optional;
 
 @Service
@@ -13,6 +14,14 @@ public class ProjectServiceImpl implements IProjectService {
 
     @Autowired
     private IProjectRepository projectRepository;
+
+    @Autowired
+    private IProjectRepository projectRepository2;
+
+    @PostConstruct
+    public void initialization() {
+        System.out.println("Break Point Here");
+    }
 
     @Override
     public Optional<Project> findById(Long id) {
