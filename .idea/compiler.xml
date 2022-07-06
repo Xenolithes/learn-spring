@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="logging-in-a-spring-boot-project-lesson-end" />
+        <module name="working-with-profiles-lesson-start" />
+        <module name="working-with-property-source-start" />
+        <module name="ls-working-with-properties-lesson-end" />
+        <module name="default-properties-end" />
+        <module name="spring-testing-framework-lesson-end" />
+        <module name="deploying-boot-2-application-other-options" />
+        <module name="default-properties-start" />
+        <module name="deploying-a-spring-boot-project" />
+        <module name="working-with-profiles-lesson-end" />
+        <module name="ls-working-with-properties-lesson-start" />
+        <module name="working-with-property-source-end" />
+        <module name="spring-testing-framework-lesson-start" />
+        <module name="logging-in-a-spring-boot-project-lesson-start" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="default-properties-end" target="1.8" />
+      <module name="default-properties-start" target="1.8" />
+      <module name="deploying-a-spring-boot-project" target="1.8" />
+      <module name="deploying-boot-2-application-other-options" target="1.8" />
+      <module name="learn-spring-m3" target="1.5" />
+      <module name="logging-in-a-spring-boot-project-lesson-end" target="1.8" />
+      <module name="logging-in-a-spring-boot-project-lesson-start" target="1.8" />
+      <module name="ls-working-with-properties-lesson-end" target="1.8" />
+      <module name="ls-working-with-properties-lesson-start" target="1.8" />
+      <module name="spring-testing-framework-lesson-end" target="1.8" />
+      <module name="spring-testing-framework-lesson-start" target="1.8" />
+      <module name="working-with-profiles-lesson-end" target="1.8" />
+      <module name="working-with-profiles-lesson-start" target="1.8" />
+      <module name="working-with-property-source-end" target="1.8" />
+      <module name="working-with-property-source-start" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="default-properties-end" options="-parameters" />
+      <module name="default-properties-start" options="-parameters" />
+      <module name="deploying-a-spring-boot-project" options="-parameters" />
+      <module name="deploying-boot-2-application-other-options" options="-parameters" />
+      <module name="logging-in-a-spring-boot-project-lesson-end" options="-parameters" />
+      <module name="logging-in-a-spring-boot-project-lesson-start" options="-parameters" />
+      <module name="ls-working-with-properties-lesson-end" options="-parameters" />
+      <module name="ls-working-with-properties-lesson-start" options="-parameters" />
+      <module name="spring-testing-framework-lesson-end" options="-parameters" />
+      <module name="spring-testing-framework-lesson-start" options="-parameters" />
+      <module name="working-with-profiles-lesson-end" options="-parameters" />
+      <module name="working-with-profiles-lesson-start" options="-parameters" />
+      <module name="working-with-property-source-end" options="-parameters" />
+      <module name="working-with-property-source-start" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/default-properties-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/default-properties-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/default-properties-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/default-properties-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deploying-boot-2-application-other-options/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/deploying-boot-2-application-other-options/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-deploying-a-spring-boot-project/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-spring-testing-framework-lesson-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-spring-testing-framework-lesson-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-working-with-profiles-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-working-with-profiles-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-working-with-profiles-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-working-with-profiles-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-working-with-properties-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-working-with-properties-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m3-working-with-properties-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/working-with-property-source-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/working-with-property-source-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/working-with-property-source-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/working-with-property-source-start/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

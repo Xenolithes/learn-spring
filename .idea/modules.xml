@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/default-properties-end/default-properties-end.iml" filepath="$PROJECT_DIR$/default-properties-end/default-properties-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/default-properties-start/default-properties-start.iml" filepath="$PROJECT_DIR$/default-properties-start/default-properties-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-deploying-a-spring-boot-project/deploying-a-spring-boot-project.iml" filepath="$PROJECT_DIR$/m3-deploying-a-spring-boot-project/deploying-a-spring-boot-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/deploying-boot-2-application-other-options/deploying-boot-2-application-other-options.iml" filepath="$PROJECT_DIR$/deploying-boot-2-application-other-options/deploying-boot-2-application-other-options.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-m3.iml" filepath="$PROJECT_DIR$/learn-spring-m3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-end/logging-in-a-spring-boot-project-lesson-end.iml" filepath="$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-end/logging-in-a-spring-boot-project-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-start/logging-in-a-spring-boot-project-lesson-start.iml" filepath="$PROJECT_DIR$/m3-logging-in-a-spring-boot-project-start/logging-in-a-spring-boot-project-lesson-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-working-with-properties-end/ls-working-with-properties-lesson-end.iml" filepath="$PROJECT_DIR$/m3-working-with-properties-end/ls-working-with-properties-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-working-with-properties-start/ls-working-with-properties-lesson-start.iml" filepath="$PROJECT_DIR$/m3-working-with-properties-start/ls-working-with-properties-lesson-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-spring-testing-framework-lesson-end/spring-testing-framework-lesson-end.iml" filepath="$PROJECT_DIR$/m3-spring-testing-framework-lesson-end/spring-testing-framework-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-spring-testing-framework-lesson-start/spring-testing-framework-lesson-start.iml" filepath="$PROJECT_DIR$/m3-spring-testing-framework-lesson-start/spring-testing-framework-lesson-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-working-with-profiles-end/working-with-profiles-lesson-end.iml" filepath="$PROJECT_DIR$/m3-working-with-profiles-end/working-with-profiles-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m3-working-with-profiles-start/working-with-profiles-lesson-start.iml" filepath="$PROJECT_DIR$/m3-working-with-profiles-start/working-with-profiles-lesson-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-property-source-end/working-with-property-source-end.iml" filepath="$PROJECT_DIR$/working-with-property-source-end/working-with-property-source-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/working-with-property-source-start/working-with-property-source-start.iml" filepath="$PROJECT_DIR$/working-with-property-source-start/working-with-property-source-start.iml" />
+    </modules>
+  </component>
+</project>

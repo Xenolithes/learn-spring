@@ -1,0 +1,7 @@
+/Users/ESchweitzer/xenolithes/learn-spring/deploying-boot-2-application-other-options/src/main/java/com/baeldung/ls/LsApp.java
+/Users/ESchweitzer/xenolithes/learn-spring/deploying-boot-2-application-other-options/src/main/java/com/baeldung/ls/persistence/model/Project.java
+/Users/ESchweitzer/xenolithes/learn-spring/deploying-boot-2-application-other-options/src/main/java/com/baeldung/ls/service/impl/ProjectServiceImpl.java
+/Users/ESchweitzer/xenolithes/learn-spring/deploying-boot-2-application-other-options/src/main/java/com/baeldung/ls/service/IProjectService.java
+/Users/ESchweitzer/xenolithes/learn-spring/deploying-boot-2-application-other-options/src/main/java/com/baeldung/ls/persistence/repository/impl/ProjectRepositoryImpl.java
+/Users/ESchweitzer/xenolithes/learn-spring/deploying-boot-2-application-other-options/src/main/java/com/baeldung/ls/persistence/repository/IProjectRepository.java
+/Users/ESchweitzer/xenolithes/learn-spring/deploying-boot-2-application-other-options/src/main/java/com/baeldung/ls/config/AppConfig.java
