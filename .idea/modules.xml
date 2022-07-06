@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/actuator-custom-health-indicator-end/actuator-custom-health-indicator-end.iml" filepath="$PROJECT_DIR$/actuator-custom-health-indicator-end/actuator-custom-health-indicator-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/actuator-custom-health-indicator-start/actuator-custom-health-indicator-start.iml" filepath="$PROJECT_DIR$/actuator-custom-health-indicator-start/actuator-custom-health-indicator-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4-actuators-in-boot-2-end/actuators-in-boot-2-lesson-end.iml" filepath="$PROJECT_DIR$/m4-actuators-in-boot-2-end/actuators-in-boot-2-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4-actuators-in-boot-2-start/actuators-in-boot-2-lesson-start.iml" filepath="$PROJECT_DIR$/m4-actuators-in-boot-2-start/actuators-in-boot-2-lesson-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4-boot-auto-configuration-end/boot-auto-configuration-lesson-end.iml" filepath="$PROJECT_DIR$/m4-boot-auto-configuration-end/boot-auto-configuration-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m4-boot-auto-configuration-start/boot-auto-configuration-lesson-start.iml" filepath="$PROJECT_DIR$/m4-boot-auto-configuration-start/boot-auto-configuration-lesson-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-m4.iml" filepath="$PROJECT_DIR$/learn-spring-m4.iml" />
+    </modules>
+  </component>
+</project>

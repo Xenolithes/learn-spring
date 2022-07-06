@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="755def4c-7e0a-4fcc-92e2-aca7414b803e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/actuator-custom-health-indicator-start/src/main/java/com/baeldung/ls/health/DBHealthIndicator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/actuator-custom-health-indicator-start/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/actuator-custom-health-indicator-start/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4-actuators-in-boot-2-start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/m4-actuators-in-boot-2-start/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4-actuators-in-boot-2-start/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/m4-actuators-in-boot-2-start/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4-boot-auto-configuration-start/src/main/java/com/baeldung/ls/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/m4-boot-auto-configuration-start/src/main/java/com/baeldung/ls/config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m4-boot-auto-configuration-start/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/m4-boot-auto-configuration-start/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="module3" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.LsApp (3)">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="boot-auto-configuration-lesson-end" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="boot-auto-configuration-lesson-end" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuators-in-boot-2-lesson-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuator-custom-health-indicator-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuator-custom-health-indicator-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-auto-configuration-lesson-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuators-in-boot-2-lesson-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-auto-configuration-lesson-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
