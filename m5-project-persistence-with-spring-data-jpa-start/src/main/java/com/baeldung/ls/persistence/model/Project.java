@@ -1,35 +1,37 @@
 package com.baeldung.ls.persistence.model;
 
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
 import java.time.LocalDate;
 import java.util.Objects;
 import java.util.Random;
 
+@Entity
 public class Project {
 
+    @Id
+    @GeneratedValue
     private Long id;
 
     private String name;
 
     private LocalDate dateCreated;
 
-    public Project(Long id, String name, LocalDate dateCreated) {
-        if(Objects.isNull(id)) {
-            id = new Random().nextLong();
-        }
-        this.id = id;
-        this.name = name;
-        this.dateCreated = dateCreated;
+    public Project() {
+
     }
 
     public Project(String name, LocalDate dateCreated) {
-        this.id = new Random().nextLong();
         this.name = name;
         this.dateCreated = dateCreated;
     }
 
-    public Project(Project project) {
-        this(project.getId(), project.getName(), project.getDateCreated());
+    public Project(Project project){
+        this(project.getName(), project.getDateCreated());
     }
+
 
     public Long getId() {
         return id;

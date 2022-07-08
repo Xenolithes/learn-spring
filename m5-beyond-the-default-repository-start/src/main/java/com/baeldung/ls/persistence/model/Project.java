@@ -1,10 +1,9 @@
 package com.baeldung.ls.persistence.model;
 
 import java.time.LocalDate;
+import java.util.Set;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
 public class Project {
@@ -16,6 +15,10 @@ public class Project {
     private String name;
 
     private LocalDate dateCreated;
+
+    @OneToMany( fetch = FetchType.EAGER, cascade = CascadeType.ALL)
+    @JoinColumn( name = "project_id")
+    private Set<Task> tasks;
 
     protected Project() {
     }

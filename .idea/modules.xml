@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m5-beyond-the-default-repository-end/beyond-the-default-repository-end.iml" filepath="$PROJECT_DIR$/m5-beyond-the-default-repository-end/beyond-the-default-repository-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5-beyond-the-default-repository-start/beyond-the-default-repository-start.iml" filepath="$PROJECT_DIR$/m5-beyond-the-default-repository-start/beyond-the-default-repository-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro-jdbctemplate-end/intro-jdbctemplate-end.iml" filepath="$PROJECT_DIR$/intro-jdbctemplate-end/intro-jdbctemplate-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intro-jdbctemplate-start/intro-jdbctemplate-start.iml" filepath="$PROJECT_DIR$/intro-jdbctemplate-start/intro-jdbctemplate-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-m5.iml" filepath="$PROJECT_DIR$/learn-spring-m5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5-pagination-and-sorting-end/pagination-and-sorting-end.iml" filepath="$PROJECT_DIR$/m5-pagination-and-sorting-end/pagination-and-sorting-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5-pagination-and-sorting-start/pagination-and-sorting-start.iml" filepath="$PROJECT_DIR$/m5-pagination-and-sorting-start/pagination-and-sorting-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5-project-persistence-with-spring-data-jpa-end/project-persistence-with-spring-data-jpa-end.iml" filepath="$PROJECT_DIR$/m5-project-persistence-with-spring-data-jpa-end/project-persistence-with-spring-data-jpa-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5-project-persistence-with-spring-data-jpa-start/project-persistence-with-spring-data-jpa-start.iml" filepath="$PROJECT_DIR$/m5-project-persistence-with-spring-data-jpa-start/project-persistence-with-spring-data-jpa-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5-spring-with-jpa-and-hibernate-end/spring-with-jpa-and-hibernate-end.iml" filepath="$PROJECT_DIR$/m5-spring-with-jpa-and-hibernate-end/spring-with-jpa-and-hibernate-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m5-spring-with-jpa-and-hibernate-start/spring-with-jpa-and-hibernate-start.iml" filepath="$PROJECT_DIR$/m5-spring-with-jpa-and-hibernate-start/spring-with-jpa-and-hibernate-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactions-in-spring-end/transactions-in-spring-end.iml" filepath="$PROJECT_DIR$/transactions-in-spring-end/transactions-in-spring-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/transactions-in-spring-start/transactions-in-spring-start.iml" filepath="$PROJECT_DIR$/transactions-in-spring-start/transactions-in-spring-start.iml" />
+    </modules>
+  </component>
+</project>
