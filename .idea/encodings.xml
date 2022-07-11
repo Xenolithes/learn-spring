@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/decouple-controller-from-entities-end-kotlin/src/main/kotlin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/decouple-controller-from-entities-end-kotlin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m5-project-persistence-with-spring-data-jpa-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-decouple-controller-from-entities-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-decouple-controller-from-entities-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-decouple-controller-from-entities-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-decouple-controller-from-entities-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-expanding-our-first-controller-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-expanding-our-first-controller-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-expanding-our-first-controller-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-expanding-our-first-controller-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-testing-with-boot-2-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-testing-with-boot-2-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-testing-with-boot-2-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-testing-with-boot-2-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlets-and-dispatcherServlet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/servlets-and-dispatcherServlet/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

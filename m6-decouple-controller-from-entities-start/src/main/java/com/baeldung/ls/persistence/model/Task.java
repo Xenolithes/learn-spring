@@ -28,7 +28,7 @@ public class Task {
 
     }
 
-    public Task(String name, String description, LocalDate dateCreated, LocalDate dueDate) {
+    public Task(String name, String description, LocalDate dateCreated, LocalDate dueDate, TaskStatus status) {
         this.name = name;
         this.description = description;
         this.dateCreated = dateCreated;
@@ -38,6 +38,9 @@ public class Task {
 
     public Task(Task task) {
         this(task.getName(), task.getDescription(), task.getDateCreated(), task.getDueDate());
+    }
+
+    public Task(String name, String description, LocalDate dateCreated, LocalDate dueDate) {
     }
 
     public Long getId() {

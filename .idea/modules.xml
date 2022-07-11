@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m6-decouple-controller-from-entities-end/decouple-controller-from-entities-end.iml" filepath="$PROJECT_DIR$/m6-decouple-controller-from-entities-end/decouple-controller-from-entities-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decouple-controller-from-entities-end-kotlin/decouple-controller-from-entities-end-kotlin.iml" filepath="$PROJECT_DIR$/decouple-controller-from-entities-end-kotlin/decouple-controller-from-entities-end-kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-decouple-controller-from-entities-start/decouple-controller-from-entities-start.iml" filepath="$PROJECT_DIR$/m6-decouple-controller-from-entities-start/decouple-controller-from-entities-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-expanding-our-first-controller-end/expanding-our-first-controller-end.iml" filepath="$PROJECT_DIR$/m6-expanding-our-first-controller-end/expanding-our-first-controller-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-expanding-our-first-controller-start/expanding-our-first-controller-start.iml" filepath="$PROJECT_DIR$/m6-expanding-our-first-controller-start/expanding-our-first-controller-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-m6.iml" filepath="$PROJECT_DIR$/learn-spring-m6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servlets-and-dispatcherServlet/servlets-and-dispatcherServlet.iml" filepath="$PROJECT_DIR$/servlets-and-dispatcherServlet/servlets-and-dispatcherServlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-testing-with-boot-2-end/testing-with-boot-2-lesson-end.iml" filepath="$PROJECT_DIR$/m6-testing-with-boot-2-end/testing-with-boot-2-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-testing-with-boot-2-start/testing-with-boot-2-lesson-start.iml" filepath="$PROJECT_DIR$/m6-testing-with-boot-2-start/testing-with-boot-2-lesson-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-end/what-is-spring-mvc-lesson-end.iml" filepath="$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-end/what-is-spring-mvc-lesson-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-start/what-is-spring-mvc-lesson-start.iml" filepath="$PROJECT_DIR$/m6-what-is-spring-mvc-lesson-start/what-is-spring-mvc-lesson-start.iml" />
+    </modules>
+  </component>
+</project>

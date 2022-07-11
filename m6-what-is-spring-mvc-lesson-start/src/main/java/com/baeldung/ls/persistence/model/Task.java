@@ -4,13 +4,14 @@ import java.time.LocalDate;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
 @Entity
 public class Task {
 
     @Id
-    @GeneratedValue
+    @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
 
     private String name;
@@ -37,6 +38,9 @@ public class Task {
 
     public Task(Task task) {
         this(task.getName(), task.getDescription(), task.getDateCreated(), task.getDueDate());
+    }
+
+    public Task(String name, String description, LocalDate dateCreated, LocalDate dueDate, TaskStatus status) {
     }
 
     public Long getId() {
