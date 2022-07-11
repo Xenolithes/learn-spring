@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="755def4c-7e0a-4fcc-92e2-aca7414b803e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/src/main/resources/templates/new-project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/src/main/resources/templates/projects.ftl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/resources/ValidationMessages.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/src/main/resources/templates/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/src/main/resources/templates/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/src/main/resources/templates/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/java/com/baeldung/ls/web/dto/ProjectDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/java/com/baeldung/ls/web/dto/ProjectDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/resources/templates/new-project.html" beforeDir="false" afterPath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/resources/templates/new-project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" beforeDir="false" afterPath="$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="module6" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="module7" />
+                    <option name="lastUsedInstant" value="1657499497" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="module6" />
+                    <option name="lastUsedInstant" value="1657251864" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="module5" />
+                    <option name="lastUsedInstant" value="1657121331" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="module4" />
+                    <option name="lastUsedInstant" value="1657121330" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.baeldung.ls.persistence.repository.impl" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/m6-testing-with-boot-2-end/src/test/resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.LsApp (36)">
+    <configuration name="ProjectControllerIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing-with-boot-2-lesson-end" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.ls.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baeldung.ls.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.ls.web.controller.ProjectControllerIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing-with-boot-2-lesson-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.ls.web.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baeldung.ls.web.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.ls.web.controller.ProjectControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectRepositoryIntegrationTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="intro-jdbctemplate-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.ls.persistence.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baeldung.ls.persistence.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.ls.persistence.repository.ProjectRepositoryIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectRepositoryIntegrationTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testing-with-boot-2-lesson-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.ls.persistence.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baeldung.ls.persistence.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.ls.persistence.repository.ProjectRepositoryIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProjectRepositoryIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-with-jpa-and-hibernate-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.baeldung.ls.persistence.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.baeldung.ls.persistence.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.baeldung.ls.persistence.repository.ProjectRepositoryIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="boot-auto-configuration-lesson-end" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="boot-auto-configuration-lesson-end" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (10)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pagination-and-sorting-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (11)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="project-persistence-with-spring-data-jpa-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (12)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beyond-the-default-repository-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (13)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="beyond-the-default-repository-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (14)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="transactions-in-spring-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (15)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-with-jpa-and-hibernate-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (16)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="intro-jdbctemplate-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (17)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="intro-jdbctemplate-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (18)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="decouple-controller-from-entities-end-kotlin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (19)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="decouple-controller-from-entities-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuators-in-boot-2-lesson-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (20)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="servlets-and-dispatcherServlet" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (21)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="what-is-spring-mvc-lesson-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (22)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="what-is-spring-mvc-lesson-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (23)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="testing-with-boot-2-lesson-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (24)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="expanding-our-first-controller-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (25)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="expanding-our-first-controller-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (26)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="testing-with-boot-2-lesson-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (27)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="decouple-controller-from-entities-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (28)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="full-create-operation-with-thymeleaf-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (29)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="full-create-operation-with-thymeleaf-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuator-custom-health-indicator-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (30)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-mvc-mustache-template-engine-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (31)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="view-resolvers-templating-engines-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (32)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="the-basics-of-form-validation-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (33)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-mvc-freemarker-template-engine-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (34)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="view-resolvers-templating-engines-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (35)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="the-basics-of-form-validation-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (36)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-mvc-freemarker-template-engine-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (37)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-mvc-mustache-template-engine-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (3)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuator-custom-health-indicator-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (4)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-auto-configuration-lesson-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (5)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="actuators-in-boot-2-lesson-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (6)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="pagination-and-sorting-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (7)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-with-jpa-and-hibernate-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (8)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="transactions-in-spring-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp (9)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="project-persistence-with-spring-data-jpa-start" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LsApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-auto-configuration-lesson-end" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.baeldung.ls.LsApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ProjectControllerTest" />
+        <item itemvalue="JUnit.ProjectControllerIntegrationTest" />
+        <item itemvalue="JUnit.ProjectRepositoryIntegrationTest (3)" />
+        <item itemvalue="JUnit.ProjectRepositoryIntegrationTest (2)" />
+        <item itemvalue="JUnit.ProjectRepositoryIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/module6" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

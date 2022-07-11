@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-end/full-create-operation-with-thymeleaf-end.iml" filepath="$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-end/full-create-operation-with-thymeleaf-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/full-create-operation-with-thymeleaf-start.iml" filepath="$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/full-create-operation-with-thymeleaf-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-spring-m7.iml" filepath="$PROJECT_DIR$/learn-spring-m7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-end/spring-mvc-freemarker-template-engine-end.iml" filepath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-end/spring-mvc-freemarker-template-engine-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/spring-mvc-freemarker-template-engine-start.iml" filepath="$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/spring-mvc-freemarker-template-engine-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-mustache-template-engine-end/spring-mvc-mustache-template-engine-end.iml" filepath="$PROJECT_DIR$/spring-mvc-mustache-template-engine-end/spring-mvc-mustache-template-engine-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-mvc-mustache-template-engine-start/spring-mvc-mustache-template-engine-start.iml" filepath="$PROJECT_DIR$/spring-mvc-mustache-template-engine-start/spring-mvc-mustache-template-engine-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7-the-basics-of-form-validation-end/the-basics-of-form-validation-end.iml" filepath="$PROJECT_DIR$/m7-the-basics-of-form-validation-end/the-basics-of-form-validation-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7-the-basics-of-form-validation-start/the-basics-of-form-validation-start.iml" filepath="$PROJECT_DIR$/m7-the-basics-of-form-validation-start/the-basics-of-form-validation-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7-view-resolvers-templating-engines-end/view-resolvers-templating-engines-end.iml" filepath="$PROJECT_DIR$/m7-view-resolvers-templating-engines-end/view-resolvers-templating-engines-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/view-resolvers-templating-engines-start.iml" filepath="$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/view-resolvers-templating-engines-start.iml" />
+    </modules>
+  </component>
+</project>

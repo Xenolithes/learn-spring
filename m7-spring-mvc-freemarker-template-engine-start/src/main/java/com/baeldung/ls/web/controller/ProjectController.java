@@ -1,8 +1,11 @@
 package com.baeldung.ls.web.controller;
 
+import java.util.ArrayList;
+import java.util.List;
 import java.util.stream.Collectors;
 
 import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
 import org.springframework.util.StringUtils;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -70,6 +73,15 @@ public class ProjectController {
             task.setId(dto.getId());
         }
         return task;
+    }
+
+    @GetMapping(value = "/all")
+    public String getProjects(Model model){
+        Iterable<Project> projects = projectService.findAll();
+        List<ProjectDto> projectDtos = new ArrayList<>();
+        projects.forEach(p -> projectDtos.add(convertToDto(p)));
+        model.addAttribute("projects", projectDtos);
+        return "projects";
     }
 
 }

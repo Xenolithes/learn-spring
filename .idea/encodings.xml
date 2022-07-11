@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/m5-project-persistence-with-spring-data-jpa-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-full-create-operation-with-thymeleaf-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-spring-mvc-freemarker-template-engine-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-the-basics-of-form-validation-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-the-basics-of-form-validation-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-the-basics-of-form-validation-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-view-resolvers-templating-engines-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-view-resolvers-templating-engines-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/m7-view-resolvers-templating-engines-start/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc-mustache-template-engine-end/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc-mustache-template-engine-end/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc-mustache-template-engine-start/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-mvc-mustache-template-engine-start/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
