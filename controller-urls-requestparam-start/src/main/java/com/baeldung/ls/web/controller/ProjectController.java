@@ -3,19 +3,12 @@ package com.baeldung.ls.web.controller;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+import java.util.Optional;
 import java.util.stream.Collectors;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.util.StringUtils;
-import org.springframework.web.bind.annotation.DeleteMapping;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.PutMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.ResponseStatus;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 import org.springframework.web.server.ResponseStatusException;
 
 import com.baeldung.ls.persistence.model.Project;
@@ -34,8 +27,6 @@ public class ProjectController {
         this.projectService = projectService;
     }
 
-    //
-
     @GetMapping(value = "/{id}")
     public ProjectDto findOne(@PathVariable Long id) {
         Project entity = projectService.findById(id)
@@ -50,9 +41,22 @@ public class ProjectController {
         return this.convertToDto(this.projectService.save(entity));
     }
 
+//    @GetMapping
+//    public Collection<ProjectDto> findAll() {
+//        Iterable<Project> allProjects = this.projectService.findAll();
+//        List<ProjectDto> projectDtos = new ArrayList<>();
+//        allProjects.forEach(p -> projectDtos.add(convertToDto(p)));
+//        return projectDtos;
+//    }
+
     @GetMapping
-    public Collection<ProjectDto> findAll() {
-        Iterable<Project> allProjects = this.projectService.findAll();
+    public Collection<ProjectDto> findProjects(@RequestParam("name") Optional<String> name){
+        Iterable<Project> allProjects;
+        if (name.isPresent()){
+            allProjects = this.projectService.findByName(name.get());
+        }else{
+            allProjects = this.projectService.findAll();
+        }
         List<ProjectDto> projectDtos = new ArrayList<>();
         allProjects.forEach(p -> projectDtos.add(convertToDto(p)));
         return projectDtos;

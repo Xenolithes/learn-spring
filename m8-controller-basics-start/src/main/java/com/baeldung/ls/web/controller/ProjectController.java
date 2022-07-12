@@ -19,7 +19,7 @@ import com.baeldung.ls.web.dto.ProjectDto;
 import com.baeldung.ls.web.dto.TaskDto;
 
 @RestController
-@RequestMapping(value = "/projects")
+@RequestMapping(value = "/projects", headers = "accept=application/json")
 public class ProjectController {
 
     private IProjectService projectService;
@@ -28,14 +28,14 @@ public class ProjectController {
         this.projectService = projectService;
     }
 
-    //
+
 
     @GetMapping(value = "/{id}")
     public ProjectDto findOne(@PathVariable Long id) {
-        Project entity = projectService.findById(id)
-            .orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
+        Project entity = projectService.findById(id).orElseThrow(() -> new ResponseStatusException(HttpStatus.NOT_FOUND));
         return convertToDto(entity);
     }
+
 
     @PostMapping
     public void create(@RequestBody ProjectDto newProject) {

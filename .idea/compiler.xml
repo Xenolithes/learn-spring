@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="http-message-converters-spring-mvc" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="actuator-custom-health-indicator-end" target="1.8" />
+      <module name="actuator-custom-health-indicator-start" target="1.8" />
+      <module name="actuators-in-boot-2-lesson-end" target="1.8" />
+      <module name="actuators-in-boot-2-lesson-start" target="1.8" />
+      <module name="beyond-the-default-repository-end" target="1.8" />
+      <module name="beyond-the-default-repository-start" target="1.8" />
+      <module name="boot-auto-configuration-lesson-end" target="1.8" />
+      <module name="boot-auto-configuration-lesson-start" target="1.8" />
+      <module name="controller-basics-end" target="1.8" />
+      <module name="controller-basics-start" target="1.8" />
+      <module name="controller-request-response" target="1.8" />
+      <module name="controller-urls-pathvariable-end" target="1.8" />
+      <module name="controller-urls-pathvariable-start" target="1.8" />
+      <module name="controller-urls-requestparam-end" target="1.8" />
+      <module name="controller-urls-requestparam-start" target="1.8" />
+      <module name="decouple-controller-from-entities-end" target="1.8" />
+      <module name="decouple-controller-from-entities-end-kotlin" target="1.8" />
+      <module name="decouple-controller-from-entities-start" target="1.8" />
+      <module name="exception-handling-end" target="1.8" />
+      <module name="exception-handling-start" target="1.8" />
+      <module name="expanding-our-first-controller-end" target="1.8" />
+      <module name="expanding-our-first-controller-start" target="1.8" />
+      <module name="full-create-operation-with-thymeleaf-end" target="1.8" />
+      <module name="full-create-operation-with-thymeleaf-start" target="1.8" />
+      <module name="http-message-converters-spring-mvc" target="1.8" />
+      <module name="intro-jdbctemplate-end" target="1.8" />
+      <module name="intro-jdbctemplate-start" target="1.8" />
+      <module name="intro-to-the-rest-template-end" target="1.8" />
+      <module name="intro-to-the-rest-template-start" target="1.8" />
+      <module name="learn-spring-m4" target="1.5" />
+      <module name="learn-spring-m5" target="1.5" />
+      <module name="learn-spring-m6" target="1.5" />
+      <module name="learn-spring-m7" target="1.5" />
+      <module name="learn-spring-m8" target="1.5" />
+      <module name="pagination-and-sorting-end" target="1.8" />
+      <module name="pagination-and-sorting-start" target="1.8" />
+      <module name="project-persistence-with-spring-data-jpa-end" target="1.8" />
+      <module name="project-persistence-with-spring-data-jpa-start" target="1.8" />
+      <module name="servlets-and-dispatcherServlet" target="1.8" />
+      <module name="spring-mvc-freemarker-template-engine-end" target="1.8" />
+      <module name="spring-mvc-freemarker-template-engine-start" target="1.8" />
+      <module name="spring-mvc-mustache-template-engine-end" target="1.8" />
+      <module name="spring-mvc-mustache-template-engine-start" target="1.8" />
+      <module name="spring-with-jpa-and-hibernate-end" target="1.8" />
+      <module name="spring-with-jpa-and-hibernate-start" target="1.8" />
+      <module name="testing-with-boot-2-lesson-end" target="1.8" />
+      <module name="testing-with-boot-2-lesson-start" target="1.8" />
+      <module name="the-basics-of-form-validation-end" target="1.8" />
+      <module name="the-basics-of-form-validation-start" target="1.8" />
+      <module name="transactions-in-spring-end" target="1.8" />
+      <module name="transactions-in-spring-start" target="1.8" />
+      <module name="view-resolvers-templating-engines-end" target="1.8" />
+      <module name="view-resolvers-templating-engines-start" target="1.8" />
+      <module name="what-is-spring-mvc-lesson-end" target="1.8" />
+      <module name="what-is-spring-mvc-lesson-start" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="actuator-custom-health-indicator-end" options="-parameters" />
+      <module name="actuator-custom-health-indicator-start" options="-parameters" />
+      <module name="actuators-in-boot-2-lesson-end" options="-parameters" />
+      <module name="actuators-in-boot-2-lesson-start" options="-parameters" />
+      <module name="beyond-the-default-repository-end" options="-parameters" />
+      <module name="beyond-the-default-repository-start" options="-parameters" />
+      <module name="boot-auto-configuration-lesson-end" options="-parameters" />
+      <module name="boot-auto-configuration-lesson-start" options="-parameters" />
+      <module name="controller-basics-end" options="-parameters" />
+      <module name="controller-basics-start" options="-parameters" />
+      <module name="controller-request-response" options="-parameters" />
+      <module name="controller-urls-pathvariable-end" options="-parameters" />
+      <module name="controller-urls-pathvariable-start" options="-parameters" />
+      <module name="controller-urls-requestparam-end" options="-parameters" />
+      <module name="controller-urls-requestparam-start" options="-parameters" />
+      <module name="decouple-controller-from-entities-end" options="-parameters" />
+      <module name="decouple-controller-from-entities-end-kotlin" options="-parameters" />
+      <module name="decouple-controller-from-entities-start" options="-parameters" />
+      <module name="exception-handling-end" options="-parameters" />
+      <module name="exception-handling-start" options="-parameters" />
+      <module name="expanding-our-first-controller-end" options="-parameters" />
+      <module name="expanding-our-first-controller-start" options="-parameters" />
+      <module name="full-create-operation-with-thymeleaf-end" options="-parameters" />
+      <module name="full-create-operation-with-thymeleaf-start" options="-parameters" />
+      <module name="http-message-converters-spring-mvc" options="-parameters" />
+      <module name="intro-jdbctemplate-end" options="-parameters" />
+      <module name="intro-jdbctemplate-start" options="-parameters" />
+      <module name="intro-to-the-rest-template-end" options="-parameters" />
+      <module name="intro-to-the-rest-template-start" options="-parameters" />
+      <module name="pagination-and-sorting-end" options="-parameters" />
+      <module name="pagination-and-sorting-start" options="-parameters" />
+      <module name="project-persistence-with-spring-data-jpa-end" options="-parameters" />
+      <module name="project-persistence-with-spring-data-jpa-start" options="-parameters" />
+      <module name="servlets-and-dispatcherServlet" options="-parameters" />
+      <module name="spring-mvc-freemarker-template-engine-end" options="-parameters" />
+      <module name="spring-mvc-freemarker-template-engine-start" options="-parameters" />
+      <module name="spring-mvc-mustache-template-engine-end" options="-parameters" />
+      <module name="spring-mvc-mustache-template-engine-start" options="-parameters" />
+      <module name="spring-with-jpa-and-hibernate-end" options="-parameters" />
+      <module name="spring-with-jpa-and-hibernate-start" options="-parameters" />
+      <module name="testing-with-boot-2-lesson-end" options="-parameters" />
+      <module name="testing-with-boot-2-lesson-start" options="-parameters" />
+      <module name="the-basics-of-form-validation-end" options="-parameters" />
+      <module name="the-basics-of-form-validation-start" options="-parameters" />
+      <module name="transactions-in-spring-end" options="-parameters" />
+      <module name="transactions-in-spring-start" options="-parameters" />
+      <module name="view-resolvers-templating-engines-end" options="-parameters" />
+      <module name="view-resolvers-templating-engines-start" options="-parameters" />
+      <module name="what-is-spring-mvc-lesson-end" options="-parameters" />
+      <module name="what-is-spring-mvc-lesson-start" options="-parameters" />
+    </option>
+  </component>
+</project>

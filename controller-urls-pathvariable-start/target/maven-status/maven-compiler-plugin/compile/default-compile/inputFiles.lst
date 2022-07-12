@@ -1,0 +1,15 @@
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/config/WebConfig.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/service/IProjectService.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/persistence/repository/IProjectRepository.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/service/ITaskService.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/web/dto/TaskDto.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/persistence/model/Task.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/web/dto/ProjectDto.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/persistence/model/TaskStatus.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/service/impl/ProjectServiceImpl.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/config/AppConfig.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/persistence/model/Project.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/persistence/repository/ITaskRepository.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/LsApp.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/web/controller/ProjectController.java
+/Users/ESchweitzer/xenolithes/learn-spring/controller-urls-pathvariable-start/src/main/java/com/baeldung/ls/service/impl/TaskServiceImpl.java
