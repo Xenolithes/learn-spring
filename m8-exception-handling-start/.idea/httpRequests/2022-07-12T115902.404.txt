@@ -1,0 +1,1 @@
+Exception retrieving data: No class com.baeldung.ls.persistence.model.Project entity with id 4 exists!

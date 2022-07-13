@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-07-12T15:20:14.505+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "message": "",
+  "path": "/projects"
+}

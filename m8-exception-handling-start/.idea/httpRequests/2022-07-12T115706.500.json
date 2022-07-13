@@ -1,0 +1,7 @@
+{
+  "timestamp": "2022-07-12T15:57:06.110+0000",
+  "status": 500,
+  "error": "Internal Server Error",
+  "message": "No class com.baeldung.ls.persistence.model.Project entity with id 4 exists!",
+  "path": "/projects/4"
+}

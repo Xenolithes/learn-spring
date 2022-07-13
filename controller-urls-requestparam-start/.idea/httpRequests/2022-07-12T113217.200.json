@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2,
+    "name": "Project 2",
+    "dateCreated": "2019-06-14",
+    "tasks": [
+      {
+        "id": 4,
+        "name": "Task 4",
+        "description": "Task 4 Description",
+        "dateCreated": "2019-06-13",
+        "dueDate": "2019-06-25",
+        "status": null
+      }
+    ]
+  }
+]

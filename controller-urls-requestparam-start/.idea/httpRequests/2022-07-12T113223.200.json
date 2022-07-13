@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "name": "Project 1",
+    "dateCreated": "2019-06-13",
+    "tasks": [
+      {
+        "id": 1,
+        "name": "Task 1",
+        "description": "Task 1 Description",
+        "dateCreated": "2019-06-13",
+        "dueDate": "2019-07-13",
+        "status": null
+      },
+      {
+        "id": 2,
+        "name": "Task 2",
+        "description": "Task 2 Description",
+        "dateCreated": "2019-06-13",
+        "dueDate": "2019-06-15",
+        "status": null
+      },
+      {
+        "id": 3,
+        "name": "Task 3",
+        "description": "Task 3 Description",
+        "dateCreated": "2019-06-13",
+        "dueDate": "2019-07-13",
+        "status": null
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Project 2",
+    "dateCreated": "2019-06-14",
+    "tasks": [
+      {
+        "id": 4,
+        "name": "Task 4",
+        "description": "Task 4 Description",
+        "dateCreated": "2019-06-13",
+        "dueDate": "2019-06-25",
+        "status": null
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Project 3",
+    "dateCreated": "2019-06-15",
+    "tasks": []
+  }
+]

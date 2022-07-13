@@ -1,0 +1,18 @@
+DELETE http://localhost:8080/projects/4
+
+<> 2022-07-12T115902.404.txt
+
+###
+
+DELETE http://localhost:8080/projects/4
+
+<> 2022-07-12T115706.500.json
+
+###
+
+GET http://localhost:8080/projects/4
+
+<> 2022-07-12T115015.404.json
+
+###
+
